@@ -1,4 +1,7 @@
-# DSC 180A Methodology 4
+---
+layout: page
+title: DSC 180A Methodology 4
+---
 
 **Name:** Jonathan Gu  
 **Email:** jgu0453@ucsd.edu
